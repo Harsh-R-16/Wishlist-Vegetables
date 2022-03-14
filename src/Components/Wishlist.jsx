@@ -31,7 +31,7 @@ export default function Wishlist() {
     <div id="wishlist">
       <h1>{head}</h1>
       <label htmlFor="inp"></label>
-      {item.length < 3 ? (
+      {item.length <= 3 ? (
         <div>
           <input
             type="text"

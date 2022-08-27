@@ -5,6 +5,7 @@
   font-family: monospace;
   letter-spacing: 2px;
 }
+
 #wishlist,
 #veg {
   padding: 30px 40px;
@@ -15,19 +16,23 @@
   border-radius: 5px;
   box-shadow: 2px 2px 7px 1px rgb(189, 189, 189);
 }
+
 #wishlist h1 {
   margin-bottom: 15px;
 }
+
 #wishlist input {
   padding: 2px 4px;
   margin-right: 20px;
 }
+
 #wishlist button {
   padding: 4px 10px;
   background: #000;
   color: white;
   border: none;
 }
+
 #wishlist li {
   list-style: none;
   font-size: 15px;
@@ -39,12 +44,15 @@
   font-weight: bold;
   border-radius: 7px;
 }
+
 #wishlist h2 {
   margin-bottom: 15px;
 }
+
 #veg h2 {
   margin-bottom: 15px;
 }
+
 .veg {
   border: 1px solid rgb(212, 210, 210);
   margin-top: 15px;
@@ -52,6 +60,7 @@
   border-radius: 7px;
   /* border: none; */
 }
+
 .veg button {
   padding: 5px 8px;
   text-align: center;
